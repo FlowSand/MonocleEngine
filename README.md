@@ -1,3 +1,3 @@
 # MonocleEngine
-A 2D open source framework built off of Microsoft XNA, used in games like TowerFall.
+A 2D open source framework built off of Microsoft XNA, used in games like TowerFall or Celeste.
 Originally created by MattThorson, but put on github since their repos now 404's because bitbucket
