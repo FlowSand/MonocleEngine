@@ -1,0 +1,3 @@
+[submodule "modules/FNA"]
+	path = modules/FNA
+	url = https://github.com/FlowSand/FNA.git
